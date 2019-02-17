@@ -10,6 +10,6 @@ public class HelloContrlloer {
     @ResponseBody
     @RequestMapping(value = "/hello2")
     public String hello2() {
-        return "222";
+        return "223";
     }
 }
